@@ -1,0 +1,2 @@
+* System settings
+  I use spacemacs scala layer configuration as my main scala develop environment. [[https://github.com/syl20bnr/spacemacs/tree/master/layers/%2Blang/scala][link]]
